@@ -1,0 +1,107 @@
+[
+    {
+        "Port": "20",
+        "Protocol": "TCP",
+        "Name": "FTP Data"
+    },
+    {
+        "Port": "21",
+        "Protocol": "TCP",
+        "Name": "FTP Control"
+    },
+    {
+        "Port": "22",
+        "Protocol": "TCP",
+        "Name": "SSH"
+    },
+    {
+        "Port": "23",
+        "Protocol": "TCP",
+        "Name": "TELNET"
+    },
+    {
+        "Port": "25",
+        "Protocol": "TCP",
+        "Name": "SMTP"
+    },
+    {
+        "Port": "53",
+        "Protocol": "TCP",
+        "Name": "DNS"
+    },
+    {
+        "Port": "53",
+        "Protocol": "UDP",
+        "Name": "DNS"
+    },
+    {
+        "Port": "80",
+        "Protocol": "TCP",
+        "Name": "HTTP"
+    },
+    {
+        "Port": "110",
+        "Protocol": "TCP",
+        "Name": "POP3"
+    },
+    {
+        "Port": "119",
+        "Protocol": "TCP",
+        "Name": "NNTP"
+    },
+    {
+        "Port": "123",
+        "Protocol": "UDP",
+        "Name": "NTP"
+    },
+    {
+        "Port": "143",
+        "Protocol": "TCP",
+        "Name": "IMAP"
+    },
+    {
+        "Port": "161",
+        "Protocol": "UDP",
+        "Name": "SNMP"
+    },
+    {
+        "Port": "194",
+        "Protocol": "TCP",
+        "Name": "IRC"
+    },
+    {
+        "Port": "443",
+        "Protocol": "TCP",
+        "Name": "HTTPS"
+    },
+    {
+        "Port": "465",
+        "Protocol": "TCP",
+        "Name": "SMTPS"
+    },
+    {
+        "Port": "993",
+        "Protocol": "TCP",
+        "Name": "IMAPS"
+    },
+    {
+        "Port": "995",
+        "Protocol": "TCP",
+        "Name": "POP3S"
+    },
+    {
+        "Port": "1433",
+        "Protocol": "TCP",
+        "Name": "Microsoft SQL Server"
+    },
+    {
+        "Port": "3306",
+        "Protocol": "TCP",
+        "Name": "MySQL"
+    },
+    {
+        "Port": "3389",
+        "Protocol": "TCP",
+        "Name": "Remote Desktop Protocol (RDP)"
+    }
+]

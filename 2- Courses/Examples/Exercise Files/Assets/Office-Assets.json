@@ -1,0 +1,79 @@
+{
+    "office_locations": [
+        {
+            "country": "USA",
+            "state": "California",
+            "city": "Los Angeles",
+            "street_address": "123 Main St",
+            "postal_code": "90012",
+            "office_phone": "(213) 555-1234"
+        },
+        {
+            "country": "USA",
+            "state": "New York",
+            "city": "New York City",
+            "street_address": "456 Park Ave",
+            "postal_code": "10022",
+            "office_phone": "(212) 555-5678"
+        },
+        {
+            "country": "Canada",
+            "province": "Ontario",
+            "city": "Toronto",
+            "street_address": "789 Bay St",
+            "postal_code": "M5G 1N8",
+            "office_phone": "(416) 555-9012"
+        },
+        {
+            "country": "UK",
+            "city": "London",
+            "street_address": "10 Downing St",
+            "postal_code": "SW1A 2AA",
+            "office_phone": "+44 20 1234 5678"
+        },
+        {
+            "country": "Japan",
+            "city": "Tokyo",
+            "street_address": "1-7-1 Akasaka",
+            "postal_code": "107-0052",
+            "office_phone": "+81 3-5555-5555"
+        },
+        {
+            "country": "Germany",
+            "city": "Berlin",
+            "street_address": "Unter den Linden 77",
+            "postal_code": "10117",
+            "office_phone": "+49 30 123456"
+        },
+        {
+            "country": "France",
+            "city": "Paris",
+            "street_address": "1 Rue de la Paix",
+            "postal_code": "75001",
+            "office_phone": "+33 1 12345678"
+        },
+        {
+            "country": "Australia",
+            "state": "Victoria",
+            "city": "Melbourne",
+            "street_address": "101 Collins St",
+            "postal_code": "3000",
+            "office_phone": "+61 3 5555 5555"
+        },
+        {
+            "country": "Brazil",
+            "state": "São Paulo",
+            "city": "São Paulo",
+            "street_address": "Av. Paulista, 1000",
+            "postal_code": "01310-100",
+            "office_phone": "+55 11 5555-5555"
+        },
+        {
+            "country": "China",
+            "city": "Beijing",
+            "street_address": "1 Chang'an Avenue",
+            "postal_code": "100004",
+            "office_phone": "+86 10 5555 5555"
+        }
+    ]
+}

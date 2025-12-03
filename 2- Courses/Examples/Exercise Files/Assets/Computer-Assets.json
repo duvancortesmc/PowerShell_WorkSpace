@@ -1,0 +1,150 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Dell",
+      "computers": [
+        {
+          "type": "Desktop",
+          "serial": "ABC123",
+          "os": "Windows 10",
+          "ram": "8GB",
+          "processor": "Intel Core i5",
+          "disk": "500GB HDD",
+          "ip_address": "192.168.1.100",
+          "domain_joined": true,
+          "online_status": true,
+          "date_added": "2022-01-01",
+          "computer_name": "DELLABC123"
+        },
+        {
+          "type": "Laptop",
+          "serial": "DEF456",
+          "os": "Windows 10",
+          "ram": "16GB",
+          "processor": "Intel Core i7",
+          "disk": "512GB SSD",
+          "ip_address": "192.168.1.101",
+          "domain_joined": true,
+          "online_status": true,
+          "date_added": "2022-02-01",
+          "computer_name": "DELLDEF456"
+        },
+        {
+          "type": "Desktop",
+          "serial": "GHI789",
+          "os": "Windows 11",
+          "ram": "16GB",
+          "processor": "Intel Core i7",
+          "disk": "1TB HDD",
+          "ip_address": "192.168.1.102",
+          "domain_joined": false,
+          "online_status": false,
+          "date_added": "2022-03-01",
+          "computer_name": "DELLGHI789"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "HP",
+      "computers": [
+        {
+          "type": "Laptop",
+          "serial": "JKL012",
+          "os": "Windows 11",
+          "ram": "8GB",
+          "processor": "Intel Core i5",
+          "disk": "256GB SSD",
+          "ip_address": "192.168.1.103",
+          "domain_joined": true,
+          "online_status": true,
+          "date_added": "2022-04-01",
+          "computer_name": "HPJKL012"
+        },
+        {
+          "type": "Desktop",
+          "serial": "MNO345",
+          "os": "Windows 10",
+          "ram": "32GB",
+          "processor": "Intel Core i9",
+          "disk": "1TB SSD",
+          "ip_address": "192.168.1.104",
+          "domain_joined": true,
+          "online_status": true,
+          "date_added": "2022-05-01",
+          "computer_name": "HPMNO345"
+        },
+        {
+          "type": "Desktop",
+          "serial": "PQR678",
+          "os": "Windows 10",
+          "ram": "8GB",
+          "processor": "Intel Core i3",
+          "disk": "500GB HDD",
+          "ip_address": "192.168.1.105",
+          "domain_joined": true,
+          "online_status": false,
+          "date_added": "2022-06-01",
+          "computer_name": "HPPQR678"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lenovo",
+      "computers": [
+        {
+          "type": "Laptop",
+          "ram": "8 GB",
+          "processor": "Intel Core i5-1135G7",
+          "disk": "512 GB SSD",
+          "ip_address": "192.168.1.105",
+          "domain_joined": false,
+          "online_status": false,
+          "date_added": "2021-12-15",
+          "computer_name": "HP9K2J6N1H4L5M"
+        },
+        {
+          "type": "Desktop",
+          "serial": "1K9J2N4L6H5M",
+          "os": "Windows 10 Pro",
+          "ram": "16 GB",
+          "processor": "AMD Ryzen 5 5600X",
+          "disk": "1 TB SSD",
+          "ip_address": "192.168.1.106",
+          "domain_joined": true,
+          "online_status": true,
+          "date_added": "2022-01-20",
+          "computer_name": "Lenovo1K9J2N4L6H5M"
+        },
+        {
+          "type": "Laptop",
+          "serial": "2J6N1K5L9H4M",
+          "os": "Windows 11 Pro",
+          "ram": "32 GB",
+          "processor": "Intel Core i7-11800H",
+          "disk": "2 TB SSD",
+          "ip_address": "192.168.1.107",
+          "domain_joined": true,
+          "online_status": true,
+          "date_added": "2022-02-05",
+          "computer_name": "Lenovo2J6N1K5L9H4M"
+        },
+        {
+          "type": "Desktop",
+          "serial": "6H5M9J1N2K4L",
+          "os": "Windows 10 Home",
+          "ram": "8 GB",
+          "processor": "Intel Core i3-10100",
+          "disk": "512 GB SSD",
+          "ip_address": "192.168.1.108",
+          "domain_joined": false,
+          "online_status": false,
+          "date_added": "2021-12-08",
+          "computer_name": "Lenovo6H5M9J1N2K4L"
+        }
+      ]
+    }
+  ]
+}

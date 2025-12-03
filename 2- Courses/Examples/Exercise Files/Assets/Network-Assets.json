@@ -1,0 +1,271 @@
+{
+  "vendors": [
+    {
+      "name": "Cisco",
+      "devices": [
+        {
+          "type": "Firewall",
+          "devices": [
+            {
+              "serial_number": "cisco-fw-12345",
+              "operating_system": "Cisco IOS",
+              "name": "ASA-5506X",
+              "ip_address": "192.168.1.1",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            }
+          ]
+        },
+        {
+          "type": "Switch",
+          "devices": [
+            {
+              "serial_number": "cisco-sw-67890",
+              "operating_system": "Cisco IOS",
+              "name": "Catalyst-3850",
+              "ip_address": "192.168.1.2",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            },
+            {
+              "serial_number": "cisco-sw-24680",
+              "operating_system": "Cisco IOS",
+              "name": "Nexus-9000",
+              "ip_address": "192.168.1.3",
+              "online_status": false,
+              "date_added": "2022-02-02"
+            }
+          ]
+        },
+        {
+          "type": "Phone",
+          "devices": [
+            {
+              "serial_number": "cisco-ph-13579",
+              "operating_system": "Cisco Unified Communications Manager",
+              "name": "IP Phone 7841",
+              "ip_address": "192.168.1.4",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            },
+            {
+              "serial_number": "cisco-ph-24680",
+              "operating_system": "Cisco Unified Communications Manager",
+              "name": "IP Phone 8851",
+              "ip_address": "192.168.1.5",
+              "online_status": true,
+              "date_added": "2022-02-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HP",
+      "devices": [
+        {
+          "type": "Printer",
+          "devices": [
+            {
+              "serial_number": "hp-pr-24680",
+              "operating_system": "HP JetAdvantage",
+              "name": "LaserJet Pro M404dn",
+              "ip_address": "192.168.1.6",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            }
+          ]
+        },
+        {
+          "type": "Switch",
+          "devices": [
+            {
+              "serial_number": "hp-sw-12345",
+              "operating_system": "HP Comware",
+              "name": "FlexNetwork 5130 EI",
+              "ip_address": "192.168.1.7",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            },
+            {
+              "serial_number": "hp-sw-67890",
+              "operating_system": "HP Comware",
+              "name": "FlexNetwork 5510 HI",
+              "ip_address": "192.168.1.8",
+              "online_status": false,
+              "date_added": "2022-02-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Juniper",
+      "devices": [
+        {
+          "type": "Firewall",
+          "devices": [
+            {
+              "serial_number": "juniper-fw-12345",
+              "operating_system": "Junos OS",
+              "name": "SRX3400",
+              "ip_address": "192.168.1.9",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            }
+          ]
+        },
+        {
+          "type": "Switch",
+          "devices": [
+            {
+              "serial_number": "juniper-sw-67890",
+              "operating_system": "Junos OS",
+              "name": "EX4300",
+              "ip_address": "192.168.1.10",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            },
+            {
+              "serial_number": "juniper-sw-24680",
+              "operating_system": "Junos OS",
+              "name": "QFX5100",
+              "ip_address": "192.168.1.11",
+              "online_status": false,
+              "date_added": "2022-02-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dell",
+      "devices": [
+        {
+          "type": "Switch",
+          "devices": [
+            {
+              "serial_number": "dell-sw-12345",
+              "operating_system": "Dell Networking OS",
+              "name": "N2048",
+              "ip_address": "192.168.1.12",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            },
+            {
+              "serial_number": "dell-sw-67890",
+              "operating_system": "Dell Networking OS",
+              "name": "N3024",
+              "ip_address": "192.168.1.13",
+              "online_status": true,
+              "date_added": "2022-02-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "devices": [
+        {
+          "type": "IoT Device",
+          "devices": [
+            {
+              "serial_number": "ms-iot-12345",
+              "operating_system": "Windows 10 IoT Core",
+              "name": "Raspberry Pi 4",
+              "ip_address": "192.168.1.14",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aruba",
+      "devices": [
+        {
+          "type": "Wireless Access Point",
+          "devices": [
+            {
+              "serial_number": "aruba-ap-12345",
+              "operating_system": "ArubaOS",
+              "name": "AP-515",
+              "ip_address": "192.168.1.15",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fortinet",
+      "devices": [
+        {
+          "type": "Firewall",
+          "devices": [
+            {
+              "serial_number": "fortinet-fw-12345",
+              "operating_system": "FortiOS",
+              "name": "FortiGate 60F",
+              "ip_address": "192.168.1.16",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ubiquiti",
+      "devices": [
+        {
+          "type": "Wireless Access Point",
+          "devices": [
+            {
+              "serial_number": "ubiq-ap-12345",
+              "operating_system": "UniFi",
+              "name": "UAP-AC-PRO",
+              "ip_address": "192.168.1.17",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            }
+          ]
+        },
+        {
+          "type": "Switch",
+          "devices": [
+            {
+              "serial_number": "ubiq-sw-67890",
+              "operating_system": "EdgeSwitch",
+              "name": "ES-48-Lite",
+              "ip_address": "192.168.1.18",
+              "online_status": false,
+              "date_added": "2022-02-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xerox",
+      "devices": [
+        {
+          "type": "Printer",
+          "devices": [
+            {
+              "serial_number": "xerox-pr-24680",
+              "operating_system": "Xerox ConnectKey",
+              "name": "WorkCentre 6515",
+              "ip_address": "192.168.1.19",
+              "online_status": true,
+              "date_added": "2022-02-01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
